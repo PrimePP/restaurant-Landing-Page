@@ -18,7 +18,7 @@ This project is a landing page of a restaurant. It is purely created for Desktop
 - Personal Learnings in this project 
     - HTML
     - CSS 
-- Deployed on *Netlify*  **[ClickMe]()** 
+- Deployed on *Netlify*  **[ClickMe](https://restaurantlandingyo.netlify.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
